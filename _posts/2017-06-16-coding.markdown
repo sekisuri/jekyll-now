@@ -45,4 +45,4 @@ Emmet Documentation
 * [Naver](https://github.com/naver)
 * [Kakao](https://github.com/kakao)
 
-### [Close](https://sekisuri.github.io)
+** [Close](https://sekisuri.github.io) **
