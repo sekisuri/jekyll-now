@@ -43,3 +43,6 @@ png,jpeg 화질차이 없이 용량을 줄여준다.
 블로터기사 구글, 음성인식 기술 API 공개
 * [구글, 이미지 분석 API 공개](http://www.bloter.net/archives/245206)<br>
 블로터기사 구글, 이미지 분석 API 공개
+
+
+### [Close](https://sekisuri.github.io)
