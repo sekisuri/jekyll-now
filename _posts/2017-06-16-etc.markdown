@@ -2,10 +2,12 @@
 layout: post
 title: Etc
 ---
-## 디자인
+* [https://pixabay.com/](https://pixabay.com/)<br>
+Pixabay는 저작권에서 자유로운 이미지를 찾고 공유하는 곳입니다. <br>
+이곳의 모든 이미지는 크리에이티브 커먼즈 퍼블릭 도메인 CC0에 따라 사용할 수 있습니다.
 * [어도비 색상비교](https://color.adobe.com/)
-* [이미지 사이즈 최적화](https://tinypng.com/)<br>
-png,jpeg 화질차이 없이 용량을 줄여준다.
+* [https://tinypng.com/](https://tinypng.com/)<br>
+이미지 사이즈 최적화
 
 ## 폰트
 * [저작권 걱정 없는 무료 글꼴 48종 총정리](http://www.bloter.net/archives/201916)<br>
