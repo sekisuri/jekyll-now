@@ -1,0 +1,45 @@
+---
+layout: post
+title: Etc
+---
+## 디자인
+* [어도비 색상비교](https://color.adobe.com/)
+* [이미지 사이즈 최적화](https://tinypng.com/)<br>
+png,jpeg 화질차이 없이 용량을 줄여준다.
+
+## 폰트
+* [저작권 걱정 없는 무료 글꼴 48종 총정리](http://www.bloter.net/archives/201916)<br>
+블로터 기사 저작권 걱정 없는 무료 글꼴 48종 총정리
+* [무료 배포 한글 글꼴에는 무엇이 있나요?](http://www.wikitree.co.kr/main/news_view.php?id=156904)<br>
+위키트리 한글무료 폰트 소개
+
+## 사운드
+* [CC 라이센스 뮤직](https://www.jamendo.com/start?genre=classical)
+
+## 유용한 문서 및 사이트
+* [내가 만든 무료 게임 1000다운로드 이상 만들기](http://blog.naver.com/zacra/220235663975)<br>
+네이버 블로그 게임 홍보 경험담
+* [한국어 번역글 모음 페이지](https://nolboo.kim/trans/#iOS,_OS_X)<br>
+한국어 번역글 모음 많음
+* [Ketchap](https://play.google.com/store/apps/dev?id=6054197513203380012)<br>
+참고할만한 게임회사(Ketchap) 구글플레이 페이지
+* [https://halfbrick.com/](https://halfbrick.com/)<br>
+참고할만한 게임회사(halfbrick) 웹사이트
+* [http://www.nobrandgames.com/](http://www.nobrandgames.com/)<br>
+참고할만한 게임회사(nobrandgames) 웹사이트
+* [파이썬 웹 크롤링](http://1cue.blogspot.kr/2015/11/blog-post.html)<br>
+파이썬 웹 크롤링 환경설정 설명된 블로그(아이디:원큐)
+* [유니티 플레이메이커 기초](http://blog.naver.com/PostView.nhn?blogId=slee16&logNo=220316046075&parentCategoryNo=&categoryNo=48&viewDate=&isShowPopularPosts=true&from=search)<br>
+유니티 플레이메이커 설명된 네이버블로그
+
+## 그냥 볼만한 기사
+* [중국 앱마켓 빠르게 살펴보기](http://www.mobiinside.com/kr/2016/09/30/china-appstore/)<br>
+[성지문의 차이나 비지니스] (3) 중국 앱마켓 빠르게 살펴보기
+* [중국 앱 스토어 시장현황](https://news.kotra.or.kr/user/globalBbs/kotranews/4/globalBbsDataView.do?setIdx=243&dataIdx=142797)<br>
+중국 앱 스토어 시장현황 및 한국 앱 업로드 절차(1)
+* [웹으로 프로그래밍 배우자](http://www.bloter.net/archives/176582)<br>
+블로터기사 초보에서 고급까지, 웹으로 프로그래밍 배우자
+* [구글, 음성인식 기술 API 공개](http://www.bloter.net/archives/252909)<br>
+블로터기사 구글, 음성인식 기술 API 공개
+* [구글, 이미지 분석 API 공개](http://www.bloter.net/archives/245206)<br>
+블로터기사 구글, 이미지 분석 API 공개
