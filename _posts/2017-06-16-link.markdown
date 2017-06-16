@@ -12,6 +12,7 @@ title: Link
  <br>$ git rm -r –cached 폴더명
  <br>$ git commit -m “remove a directory”
  <br>$ git push origin master
+
 ## 프로그래밍 도움 사이트
 * [ideone.com](ideone.com)<br>
 웹상에서 코딩을 할수 있는 사이트
@@ -35,6 +36,7 @@ css,js,html 코드 이쁘게 들여쓰기
 
 ## 참고 사이트
 * [딥 러닝 얼굴인식](http://bcho.tistory.com/1178)
+
 ## Popular Github
 * [Microsoft](https://github.com/Microsoft)
 * [Google](https://github.com/google)
