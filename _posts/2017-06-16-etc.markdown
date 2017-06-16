@@ -19,7 +19,7 @@ png,jpeg 화질차이 없이 용량을 줄여준다.
 ## 유용한 문서 및 사이트
 * [내가 만든 무료 게임 1000다운로드 이상 만들기](http://blog.naver.com/zacra/220235663975)<br>
 네이버 블로그 게임 홍보 경험담
-* [한국어 번역글 모음 페이지](https://nolboo.kim/trans/#iOS,_OS_X)<br>
+* [한국어 번역글 모음 페이지](https://nolboo.kim/trans/)<br>
 한국어 번역글 모음 많음
 * [Ketchap](https://play.google.com/store/apps/dev?id=6054197513203380012)<br>
 참고할만한 게임회사(Ketchap) 구글플레이 페이지
