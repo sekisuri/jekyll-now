@@ -1,8 +1,7 @@
 ---
 layout: post
-title: My Link
+title: Link
 ---
-## Git guide
 [쉽고빠른 간편 Git 가이드](http://rogerdudler.github.io/git-guide/index.ko.html)<br>
 [Pro Git Book](https://git-scm.com/book/ko/v1)<br>
 [svn 능력자를 위한 git 개념 가이드](https://www.slideshare.net/einsub/svn-git-17386752)<br>
