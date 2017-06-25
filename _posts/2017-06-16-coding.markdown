@@ -6,10 +6,9 @@ title: Coding
 [Pro Git Book](https://git-scm.com/book/ko/v1)<br>
 [svn 능력자를 위한 git 개념 가이드](https://www.slideshare.net/einsub/svn-git-17386752)<br>
 [생활코딩 Git](https://opentutorials.org/course/1492)<br>
+[git 한글 팁 모음 github.com/git-tips/tips](https://github.com/mingrammer/git-tips)
 
 ### Git Tip
-* git tip 모음
-[https://github.com/git-tips/tips](https://github.com/git-tips/tips)
 *  **git에 포함 되었던 특정 폴더 삭제**
  <br>$ git rm -r –cached 폴더명
  <br>$ git commit -m “remove a directory”
