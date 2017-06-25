@@ -8,6 +8,8 @@ title: Coding
 [생활코딩 Git](https://opentutorials.org/course/1492)<br>
 
 ### Git Tip
+* git tip 모음
+[https://github.com/git-tips/tips](https://github.com/git-tips/tips)
 *  **git에 포함 되었던 특정 폴더 삭제**
  <br>$ git rm -r –cached 폴더명
  <br>$ git commit -m “remove a directory”
@@ -25,8 +27,6 @@ css,js,html코드를 테스트 할수 있는 사이트
 간단한 소스를 올릴수 있는 사이트
 * [jsbeautifier.org](http://jsbeautifier.org/)<br>
 css,js,html 코드 이쁘게 들여쓰기
-* [screenr.com](http://screenr.com)<br>
-모니터 화면 동영상 캡처 사이트
 * [구름 클라우드](https://www.goorm.io/)<br>
 클라우드 코딩 서비스
 
