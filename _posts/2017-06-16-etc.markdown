@@ -19,12 +19,23 @@ Pixabay는 저작권에서 자유로운 이미지를 찾고 공유하는 곳입�
 
 ## 사운드
 * [CC 라이센스 뮤직](https://www.jamendo.com/start?genre=classical)
-
+* [무료 사운드 http://www.bensound.com/](http://www.bensound.com/)
+## 게임홍보 할 수 있는 사이트
+* [한국 - 인벤인디](http://indie.inven.co.kr/)<br>
+인벤 인디게임 DB 메뉴에서 홍보할 게임을 등록할수 있다.
+* [외국 - 홍보방법 hot to promotion game](https://www.shoutmeloud.com/how-to-promote-android-app-game.html)<br>
+외국 게임홍보 방법
+* [내가 만든 무료 게임 1000다운로드 이상 만들기](http://blog.naver.com/zacra/220235663975)<br>
+네이버 블로그 게임 홍보 경험담
 ## 유용한 문서 및 사이트
 * [screenr.com](http://screenr.com)<br>
 모니터 화면 동영상 캡처 사이트
-* [내가 만든 무료 게임 1000다운로드 이상 만들기](http://blog.naver.com/zacra/220235663975)<br>
-네이버 블로그 게임 홍보 경험담
+* [ezgif mp4 gif 변환 사이트 ](https://ezgif.com/)<br>
+mp4 gif 이미지 변환 - 여기가 더 나은 거 같음<br>
+사용방법 설명되어 있는 네이버 블로그 <br>
+http://blog.naver.com/park-yeji/220866138331
+* [mp4 gif 변환](http://image.online-convert.com/convert-to-gif)
+mp4를 gif 이미지 파일로 변환할 수 있는 사이트
 * [한국어 번역글 모음 페이지](https://nolboo.kim/trans/)<br>
 한국어 번역글 모음 많음
 * [Ketchap](https://play.google.com/store/apps/dev?id=6054197513203380012)<br>
