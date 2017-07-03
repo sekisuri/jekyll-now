@@ -28,6 +28,7 @@ Pixabay는 저작권에서 자유로운 이미지를 찾고 공유하는 곳입�
 * [내가 만든 무료 게임 1000다운로드 이상 만들기](http://blog.naver.com/zacra/220235663975)<br>
 네이버 블로그 게임 홍보 경험담
 ## 유용한 문서 및 사이트
+* [FreeEBook - http://www.allitebooks.com/](http://www.allitebooks.com/)
 * [screenr.com](http://screenr.com)<br>
 모니터 화면 동영상 캡처 사이트
 * [ezgif mp4 gif 변환 사이트 ](https://ezgif.com/)<br>
@@ -60,6 +61,6 @@ mp4를 gif 이미지 파일로 변환할 수 있는 사이트
 블로터기사 구글, 음성인식 기술 API 공개
 * [구글, 이미지 분석 API 공개](http://www.bloter.net/archives/245206)<br>
 블로터기사 구글, 이미지 분석 API 공개
-
+* [오픈소스 라이센스관련 질답](http://www.androidpub.com/2582044) 
 
 [Close](https://sekisuri.github.io)
