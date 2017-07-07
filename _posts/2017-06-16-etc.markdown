@@ -28,7 +28,12 @@ Pixabay는 저작권에서 자유로운 이미지를 찾고 공유하는 곳입�
 * [내가 만든 무료 게임 1000다운로드 이상 만들기](http://blog.naver.com/zacra/220235663975)<br>
 네이버 블로그 게임 홍보 경험담
 ## 유용한 문서 및 사이트
-* [FreeEBook - http://www.allitebooks.com/](http://www.allitebooks.com/)
+* [https://regexper.com/](https://regexper.com/)<br>
+[https://regex101.com/](https://regex101.com/)<br>
+정규식을 보기좋게 보여주는 사이트
+
+* [FreeEBook - http://www.allitebooks.com/](http://www.allitebooks.com/)<br>
+무료 IT EBook 검색, 다운받을수 있는곳.
 * [screenr.com](http://screenr.com)<br>
 모니터 화면 동영상 캡처 사이트
 * [ezgif mp4 gif 변환 사이트 ](https://ezgif.com/)<br>
