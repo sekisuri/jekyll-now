@@ -8,6 +8,8 @@ Pixabay는 저작권에서 자유로운 이미지를 찾고 공유하는 곳입�
 * [unsplash.com](http://unsplash.com)<br>
 저작권 없는 고품질 무료사진 
 * [어도비 색상비교](https://color.adobe.com/)
+* [https://www.canva.com/colors/](https://www.canva.com/colors/)<br>
+<색에 대해서 배워볼 수 있는 사이트 - 칸바>
 * [https://tinypng.com/](https://tinypng.com/)<br>
 이미지 사이즈 최적화
 
@@ -20,6 +22,7 @@ Pixabay는 저작권에서 자유로운 이미지를 찾고 공유하는 곳입�
 ## 사운드
 * [CC 라이센스 뮤직](https://www.jamendo.com/start?genre=classical)
 * [무료 사운드 http://www.bensound.com/](http://www.bensound.com/)
+* [무료 사운드 이펙트](http://www.freesfx.co.uk/)
 ## 게임홍보 할 수 있는 사이트
 * [한국 - 인벤인디](http://indie.inven.co.kr/)<br>
 인벤 인디게임 DB 메뉴에서 홍보할 게임을 등록할수 있다.
@@ -31,8 +34,11 @@ Pixabay는 저작권에서 자유로운 이미지를 찾고 공유하는 곳입�
 * [https://regexper.com/](https://regexper.com/)<br>
 [https://regex101.com/](https://regex101.com/)<br>
 정규식을 보기좋게 보여주는 사이트
-
+*[페이스북 챗봇](https://korchris.github.io/2017/06/29/FB_chatbot/)<br>
+(블로그)나만의 페이스북 메신저 봇 만들기
 * [FreeEBook - http://www.allitebooks.com/](http://www.allitebooks.com/)<br>
+* [카드매치게임](https://github.com/ykish72/web) <br>
+(js) 카드매치게임 - 아주 간단히 기본만 구현되있어서 나중에 지울거임 -
 무료 IT EBook 검색, 다운받을수 있는곳.
 * [screenr.com](http://screenr.com)<br>
 모니터 화면 동영상 캡처 사이트

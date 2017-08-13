@@ -36,6 +36,7 @@ Emmet Documentation
 * [Free Programming Ebooks](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
 
 ## 참고 사이트
+* [윈도우10 uwp강좌](https://channel9.msdn.com/Series/Windows-10-development-for-absolute-beginners)
 * [딥 러닝 얼굴인식](http://bcho.tistory.com/1178)
 
 ## Popular Github
@@ -43,5 +44,8 @@ Emmet Documentation
 * [Google](https://github.com/google)
 * [Naver](https://github.com/naver)
 * [Kakao](https://github.com/kakao)
+#### 텐서플로우
+[김성훈 강의예제](https://github.com/hunkim/DeepLearningZeroToAll/)
+[basic example](https://github.com/golbin/TensorFlow-Tutorials)
 
 [Close](https://sekisuri.github.io)
